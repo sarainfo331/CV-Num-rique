@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt de mon **CV numérique interactif** !
 
-Je suis **Sara CheLLI**, étudiante en **Licence 3 MIAGE à l'Université Côte d'Azur**, à la recherche d'une **alternance en informatique, réseaux et support IT**.
+Je suis **Sara Chelli**, étudiante en **Licence 3 MIAGE à l'Université Côte d'Azur**, à la recherche d'une **alternance en informatique, réseaux et support IT**.
 
 Ce site me permet de présenter mon parcours, mes compétences, mes expériences professionnelles et mes projets à travers un portfolio interactif.
 
